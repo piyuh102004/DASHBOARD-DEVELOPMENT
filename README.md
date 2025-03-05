@@ -1,5 +1,22 @@
 # Iris Dataset Dashboard
 
+*COMPANY*:  CODTECH IT SOLUTIONS
+
+*NAME*:  PIYUSH SINGH
+
+*INTERN ID*:  CT08TUM
+
+*DOMAIN*:  DATA ANALYTICS
+
+*DURATION*:  4 WEEKS
+
+*MENTOR*:  NEELA SANTOSH
+
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/48a535fe-8baa-4196-a811-730d0a70a499" />
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/7b56a890-83f6-4c6b-ade5-d4e03aa5fc8f" />
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/c6f4db02-17f0-42e3-9f52-c666ecaaec62" />
+
 ## Description
 This project is an interactive dashboard built using Dash and Plotly to visualize the Iris dataset. The dashboard includes various visualizations to explore the relationships between different features of the Iris flowers.
 
